@@ -1,0 +1,94 @@
+.card {
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+.main-div {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3%;
+  border: 2px;
+}
+
+.main-text {
+  font-size: 45px;
+  font-weight: bolder;
+  color: black;
+  padding-bottom: 5px;
+  text-align: center;
+  font-family: 'Merriweather', ;
+}
+
+.temperature {
+  font-weight: bold;
+  margin-bottom: 10%;
+  color: #E90064;
+  font-size: 40px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.summary {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 150px;
+  background-color: #F7C8E0;
+  border-radius: 20px;
+  border: 2px solid;
+}
+
+.main-icon {
+  height: 100px;
+  width: 100px;
+}
+
+.top-left {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 2%;
+  position: absolute;
+}
+
+span {
+  padding: 10px;
+  font-family: 'sacramento', cursive;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.input-location {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logout {
+  padding-left: 260%;
+
+}
+
+.weather-image {
+  height: 100px;
+  width: 100px;
+}

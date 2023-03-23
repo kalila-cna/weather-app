@@ -1,3 +1,10 @@
+Login credentials : (for viewing in the github pages )
+
+email id : cna.kalila@gmail.com
+password : kalila_angular
+
+---------------------------------------------------------------------
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.

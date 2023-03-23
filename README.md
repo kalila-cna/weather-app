@@ -1,6 +1,7 @@
 Login credentials : (for viewing in the github pages )
 
-email id : cna.kalila@gmail.com
+email id : cna.kalila@gmail.com 
+
 password : kalila_angular
 
 ---------------------------------------------------------------------

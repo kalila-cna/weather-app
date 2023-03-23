@@ -12,7 +12,10 @@ const routes: Routes = [
     path:'weather-dashboard',component:WeatherDashboardComponent
   },
   {
-    path:'**',component:PageNotFoundComponent
+    path:'**',component:LoginComponent
+  },
+  {
+    path:'page-not-found',component:PageNotFoundComponent
   }
 ];
 

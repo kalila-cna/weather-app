@@ -1,4 +1,6 @@
-Login credentials : (for viewing in the github pages )
+Hosted link : https://jocular-beignet-5b73bc.netlify.app/
+
+Login credentials : (for viewing in the github pages & netlify )
 
 email id : cna.kalila@gmail.com 
 
